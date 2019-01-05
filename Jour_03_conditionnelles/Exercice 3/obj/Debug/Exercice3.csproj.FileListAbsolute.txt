@@ -1,0 +1,13 @@
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice3\bin\Debug\Exercice3.exe.config
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice3\bin\Debug\Exercice3.exe
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice3\bin\Debug\Exercice3.pdb
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice3\obj\Debug\Exercice3.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice3\obj\Debug\Exercice3.exe
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice3\obj\Debug\Exercice3.pdb
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice 3\bin\Debug\Exercice3.exe.config
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice 3\bin\Debug\Exercice3.exe
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice 3\bin\Debug\Exercice3.pdb
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice 3\obj\Debug\Exercice3.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice 3\obj\Debug\Exercice3.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice 3\obj\Debug\Exercice3.exe
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice 3\obj\Debug\Exercice3.pdb

@@ -1,0 +1,14 @@
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\ConsoleApp12\obj\Debug\ConsoleApp12.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\ConsoleApp12\obj\Debug\ConsoleApp12.pdb
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice 1\bin\Debug\ConsoleApp12.exe.config
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice 1\bin\Debug\ConsoleApp12.exe
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice 1\bin\Debug\ConsoleApp12.pdb
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice 1\obj\Debug\ConsoleApp12.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice 1\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice 1\obj\Debug\ConsoleApp12.exe
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice 1\obj\Debug\ConsoleApp12.pdb

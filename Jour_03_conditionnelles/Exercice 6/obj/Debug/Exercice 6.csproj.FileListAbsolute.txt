@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice 6\obj\Debug\Exercice 6.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice 6\obj\Debug\Exercice 6.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice 6\bin\Debug\Exercice 6.exe.config
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice 6\bin\Debug\Exercice 6.exe
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice 6\bin\Debug\Exercice 6.pdb
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice 6\obj\Debug\Exercice 6.exe
+C:\Users\Moi\Desktop\Jour_03_conditionnelles\Exercice 6\obj\Debug\Exercice 6.pdb
